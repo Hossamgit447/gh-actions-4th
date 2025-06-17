@@ -37,7 +37,7 @@ main {
   max-width: 50rem;
   background-color: #292d2d;
   border-radius: 8px;
-  color: white;
+  color: rgb(5, 5, 5);
 }
 
 button {
